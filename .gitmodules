@@ -1,0 +1,3 @@
+[submodule "understanding-k-framework"]
+	path = understanding-k-framework
+	url = git@github.com:ehildenb/understanding-k-framework.git
