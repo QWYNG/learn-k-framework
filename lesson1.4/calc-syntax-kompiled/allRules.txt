@@ -1,0 +1,1 @@
+e9a710d8d1ca5c799420161879cbbff926de45a5bddd820d646f51d43eb67e62 /nix/store/00mhxgw04mnfva1k05a5i7qw7lh9p8hc-k-5.6.116-7a88f4750be8f8f343866d25d1793a2e28a7c944-maven/include/kframework/builtin/domains.md:531:8
